@@ -1,15 +1,7 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
-	var (
-		name string = "rishabh"
-		age  int
-	)
-	fmt.Println(name)
-	fmt.Println(age)
-
+	fmt.Println("hello world")
 }
